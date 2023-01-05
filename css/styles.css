@@ -29,3 +29,8 @@ img {
   color: rgb(55, 125, 55);
   font size: 60%;
 }
+
+.highlight {
+  background-color: rgb(226, 226, 137);
+  font-family: sans-serif;
+}
