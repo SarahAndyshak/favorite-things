@@ -16,6 +16,16 @@ ul {
 }
 
 img {
-    width: 200px;
-    length: 200px;
+  width: 200px;
+  length: 200px;
+}
+
+.intro {
+  font size: 40px;
+  font-family: serif;
+}
+
+.important {
+  color: rgb(55, 125, 55);
+  font size: 60%;
 }
