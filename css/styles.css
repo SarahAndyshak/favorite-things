@@ -1,6 +1,7 @@
 h1 {
   color: blue;
 }
+
 h2 {
   font-style: italic;
   text-align: center;
@@ -27,7 +28,7 @@ img {
 
 .important {
   color: rgb(55, 125, 55);
-  font size: 60%;
+  font-size: 60%;
 }
 
 .highlight {
@@ -36,6 +37,7 @@ img {
 }
 
 .love {
-    font size: 60%;
+  text-align: center;
+  font-size: 10px;
 }
 
